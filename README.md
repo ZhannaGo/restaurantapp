@@ -2,9 +2,6 @@
 
 Created a restaurant finder application with full functionality. This was my capstone project where I got to use new technologies and implement them. I created a backend and frontend that was able to interact with one another. I implemented techniques that filtered through restaurant names and dishes. I was able to create a login and logout method to save the state.    
 
-## Gif 
-![restaurantgif](https://user-images.githubusercontent.com/76239901/141482807-55ec76ac-a23c-463b-937a-70a20b4bd245.gif)
-
 ## How to run
  - Clone repo
  - Create a strapi application
